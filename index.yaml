@@ -3,12 +3,12 @@ entries:
   simple-chart:
   - apiVersion: v3
     appVersion: 1.17.0
-    created: "2022-10-03T14:51:24.710291+08:00"
+    created: "2022-10-03T15:09:47.217964+08:00"
     description: A Helm chart for Kubernetes
-    digest: d71891998bddfc26b9807d2fdbfd8dfba832de2354c09b3d2ab9b56e4e507278
+    digest: 571cf22735a1ee05f4ed4503813c0b4f9129c1170734e50744184c5a4e20ddd1
     name: simple-chart
     type: application
     urls:
     - https://twenty4fun.github.io/helm-secrets-demo/simple-chart-0.2.0.tgz
     version: 0.2.0
-generated: "2022-10-03T14:51:24.709175+08:00"
+generated: "2022-10-03T15:09:47.21693+08:00"
